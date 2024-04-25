@@ -12,7 +12,7 @@ Using PixelSorter is a breeze:
 
 1. **Upload Your Image**: Select the image you want to transform.
    
-2. **Choose Sorting Method**: Pick from various sorting methods like hue, brightness, or custom algorithms.
+2. **Press sort**: Press the sort button so the pixels of the image may be sorted.
 
 3. **Download Your Masterpiece**: Once sorted, download your unique creation and share it with the world!
 
