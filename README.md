@@ -25,7 +25,7 @@ Using PixelSorter is a breeze:
 
 ## Getting Started
 
-Clone this repository and open `index.html` in your browser:
+Clone this repository and run main.java:
 
 ```bash
 git clone https://github.com/iishee/Pixel-sorting-app
