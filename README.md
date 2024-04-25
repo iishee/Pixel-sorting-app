@@ -17,10 +17,7 @@ Using PixelSorter is a breeze:
 3. **Download Your Masterpiece**: Once sorted, download your unique creation and share it with the world!
 
 ## Features
-
-- **Multiple Sorting Algorithms**: Explore a range of algorithms for diverse visual effects.
-- **Customization Options**: Fine-tune parameters to achieve your desired look.
-- **Instant Preview**: See real-time previews as you adjust settings.
+- **Instant Preview**: See real-time previews.
 - **High-Quality Outputs**: Download high-res images for digital or print use.
 
 ## Getting Started
