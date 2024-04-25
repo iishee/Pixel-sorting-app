@@ -26,4 +26,4 @@ Clone this repository and run main.java:
 
 ```bash
 git clone https://github.com/iishee/Pixel-sorting-app
-cd pixel-sorter
+
